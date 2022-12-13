@@ -1,5 +1,2 @@
 wiki:
 Linus Benedict Torvalds is a Finnish–American software engineer who is the creator, and historically, the principal developer of the Linux kernel, which became the kernel for many Linux distributions and operating systems such as Android and Chrome OS.
-
-quotes:
-Talk is cheap. Show me the code.
